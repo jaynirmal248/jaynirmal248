@@ -48,7 +48,7 @@ Here are some of the projects I've worked on:
 Let's connect and collaborate! You can find me on:
 
 [![Instagram](https://img.shields.io/badge/Instagram-darkorange?style=for-the-badge&logo=instagram)](https://www.instagram.com/jay__nirmal/)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaynirmal24/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaynirmal248/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/jaynirmal24)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://jaynirmal.medium.com/)
 [![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/jaynirmal)
