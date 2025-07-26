@@ -40,14 +40,15 @@ Check out my portfolio to see some of my projects and work:
 
 Here are some of the projects I've worked on:
 
-- **[No Projects](#)**: Nothing added.
+- **[ASPK International Trade](https://aspkinternationaltrade.com/)**: ASPK International Trade is India’s one of the top pharma exporters.
+- **[Ghar Ho Tum – Raj Gala](https://ghar-ho-tum.netlify.app/)**: A comprehensive single-page list featuring all available platforms for the song.
 
 ## Connect with Me 📫
 
 Let's connect and collaborate! You can find me on:
 
 [![Instagram](https://img.shields.io/badge/Instagram-darkorange?style=for-the-badge&logo=instagram)](https://www.instagram.com/jay__nirmal/)
-[![YouTube](https://img.shields.io/badge/YouTube-darkred?style=for-the-badge&logo=youtube)](https://www.youtube.com/@jaynirmal2418)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaynirmal24/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/jaynirmal24)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://jaynirmal.medium.com/)
 [![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/jaynirmal)
@@ -55,19 +56,11 @@ Let's connect and collaborate! You can find me on:
 [![PayPal](https://img.shields.io/badge/paypal-darkblue?style=for-the-badge&logo=paypal)](https://paypal.me/kokila2007)
 [![Email](https://img.shields.io/badge/Email%20Me-white?style=for-the-badge&logo=gmail)](mailto:#)
 
-## GitHub Stats 📊
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## Top Languages 🗣️
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## Support Me ☕
 
 If you find my work useful, consider supporting me:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-orange?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/jaynirmal)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-orange?style=for-the-badge&logo=buymeacoffee)](https://coff.ee/jaynirmal)
 
 ---
 
