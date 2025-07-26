@@ -54,7 +54,7 @@ Let's connect and collaborate! You can find me on:
 [![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/jaynirmal)
 [![Gumroad](https://img.shields.io/badge/Gumroad-pink?style=for-the-badge&logo=gumroad)](https://jaynirmal.gumroad.com/)
 [![PayPal](https://img.shields.io/badge/paypal-darkblue?style=for-the-badge&logo=paypal)](https://paypal.me/kokila2007)
-[![Email](https://img.shields.io/badge/Email%20Me-white?style=for-the-badge&logo=gmail)](mailto:#)
+[![Email](https://img.shields.io/badge/Email%20Me-white?style=for-the-badge&logo=gmail)](mailto:jaynirmal248@gmail.com)
 
 ## Support Me ☕
 
