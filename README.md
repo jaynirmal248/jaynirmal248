@@ -37,7 +37,7 @@ Digital solutions with heart, flexibility, and a dash of wild inspiration (only 
 | Google Gemini | Advertising | Web Content Writing | Music Theory |
 | Prompt Design | Presentations using AI | WordPress Development | Chatbot Development |
 | Prompt Engineering | Digital Product Development | Gmail | Microsoft PowerPoint |
-| ChatGPT | | | WordPress |
+| ChatGPT | | WordPress | Photography |
 
 ## Portfolio 🌐
 
