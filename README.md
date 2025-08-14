@@ -25,10 +25,19 @@ Digital solutions with heart, flexibility, and a dash of wild inspiration (only 
 
 ## Skills 🛠️
 
-- **Management**: 75%
-- **Graphic Design**: 70%
-- **Photography**: 90%
-- **WordPress**: 80%
+| AI & Analytics | Product & Management | Coding & Web | Design & Multimedia |
+|----------------|-------------------|-------------|------------------|
+| AI Generalist | Product Design | Coding | Graphics Designing |
+| AI Agents | Product Development | HTML | Image Editing |
+| Artificial Intelligence (AI) | Product Mastery | CSS | Photo Editing |
+| Large Language Models (LLM) | Product Management | JavaScript | Newsletter Design |
+| Analyse data using AI | Project Management | Code and Debug using AI | WordPress Design |
+| Workflow Automation | Account Management | Script Installation | Music Production |
+| Business Analytics | No-Code Product Development | Web Design | Music Composition |
+| Google Gemini | Advertising | Web Content Writing | Music Theory |
+| Prompt Design | Presentations using AI | WordPress Development | Chatbot Development |
+| Prompt Engineering | Digital Product Development | Gmail | Microsoft PowerPoint |
+| ChatGPT | | | WordPress |
 
 ## Portfolio 🌐
 
@@ -47,14 +56,15 @@ Here are some of the projects I've worked on:
 
 Let's connect and collaborate! You can find me on:
 
+[![Email](https://img.shields.io/badge/Email%20Me-white?style=for-the-badge&logo=gmail)](mailto:jaynirmal248@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=Telegram)](http://t.me/jaynirmal24)
 [![Instagram](https://img.shields.io/badge/Instagram-darkorange?style=for-the-badge&logo=instagram)](https://www.instagram.com/jay__nirmal/)
+[![Pinterest](https://img.shields.io/badge/pinterest-red?style=for-the-badge&logo=pinterest)](https://www.pinterest.com/jaynirmal24/_created)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaynirmal248/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/jaynirmal24)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://jaynirmal.medium.com/)
 [![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/jaynirmal)
 [![Gumroad](https://img.shields.io/badge/Gumroad-pink?style=for-the-badge&logo=gumroad)](https://jaynirmal.gumroad.com/)
-[![PayPal](https://img.shields.io/badge/paypal-darkblue?style=for-the-badge&logo=paypal)](https://paypal.me/kokila2007)
-[![Email](https://img.shields.io/badge/Email%20Me-white?style=for-the-badge&logo=gmail)](mailto:jaynirmal248@gmail.com)
 
 ## Support Me ☕
 
