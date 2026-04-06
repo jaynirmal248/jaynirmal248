@@ -51,7 +51,7 @@ Here are some of the projects I've worked on:
 
 - **[ASPK International Trade](https://aspkinternationaltrade.com/)**: ASPK International Trade is India’s one of the top pharma exporters.
 - **[Ghar Ho Tum – Raj Gala](https://ghar-ho-tum.netlify.app/)**: A comprehensive single-page list featuring all available platforms for the song.
-- **[Raksha Bandhan - CARD](https://raksha-bandhann.netlify.app/)**: A professional Raksha Bandhan wishing card.
+- **[NS Workspace](https://nsworkspace.netlify.app/)**: A professional Raksha Bandhan wishing card.
 
 ## Connect with Me 📫
 
@@ -63,10 +63,6 @@ Let's connect and collaborate! You can find me on:
 [![Pinterest](https://img.shields.io/badge/pinterest-red?style=for-the-badge&logo=pinterest)](https://www.pinterest.com/jaynirmal24/_created)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaynirmal248/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/jaynirmal24)
-
-## My Portfolio ☕
-
-[![Portfolio Website](https://iili.io/Fslz1M7.jpg)](https://jaynirmal24.blogspot.com/)
 
 ---
 
