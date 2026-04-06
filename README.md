@@ -63,15 +63,10 @@ Let's connect and collaborate! You can find me on:
 [![Pinterest](https://img.shields.io/badge/pinterest-red?style=for-the-badge&logo=pinterest)](https://www.pinterest.com/jaynirmal24/_created)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaynirmal248/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/jaynirmal24)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://jaynirmal.medium.com/)
-[![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/jaynirmal)
-[![Gumroad](https://img.shields.io/badge/Gumroad-pink?style=for-the-badge&logo=gumroad)](https://jaynirmal.gumroad.com/)
 
-## Support Me ☕
+## My Portfolio ☕
 
-If you find my work useful, consider supporting me:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-orange?style=for-the-badge&logo=buymeacoffee)](https://coff.ee/jaynirmal)
+[![Portfolio Website](https://iili.io/Fslz1M7.jpg)](https://jaynirmal24.blogspot.com/)
 
 ---
 
